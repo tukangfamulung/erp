@@ -30,10 +30,10 @@ if(x=="6"){xxx="A-Definition-of-what-ERP"}
 if(x=="7"){xxx="Whats-an-ERP-System-and-why"}
 if(x=="8"){xxx="How-to-define-that-a-Company-needs"}
 if(x=="9"){xxx="What-an-ERP-is-and-the-types-of-the-Softwares"}
-if(x=="8"){xxx="What-does-ERP-Do-for-the-Business"}
-if(x=="8"){xxx="How-to-Choose-the-Best-Enterprise"}
-if(x=="8"){xxx="Benefits-of-the-ERP-Software"}
-if(x=="4"){xxx="What-is-ERP-in-Business-should-be-Chosen"}a_to_ve[i].href="https://onmyway.website/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="What-does-ERP-Do-for-the-Business"}
+if(x=="11"){xxx="How-to-Choose-the-Best-Enterprise"}
+if(x=="12"){xxx="Benefits-of-the-ERP-Software"}
+if(x=="13"){xxx="What-is-ERP-in-Business-should-be-Chosen"}a_to_ve[i].href="https://onmyway.website/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
