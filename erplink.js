@@ -21,19 +21,18 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="Choose-the-right-types-of-erp"}
-if(x=="2"){xxx="What-is-erp-solution"}
-if(x=="3"){xxx="Whats-an-erp-system"}
-if(x=="4"){xxx="The-Cloud-Based-ERP-Software"}
-if(x=="5"){xxx="Consider-Having-an-Enterprise"}
-if(x=="6"){xxx="A-Definition-of-what-ERP"}
-if(x=="7"){xxx="Whats-an-ERP-System-and-why"}
-if(x=="8"){xxx="How-to-define-that-a-Company-needs"}
-if(x=="9"){xxx="What-an-ERP-is-and-the-types-of-the-Softwares"}
-if(x=="10"){xxx="What-does-ERP-Do-for-the-Business"}
-if(x=="11"){xxx="How-to-Choose-the-Best-Enterprise"}
-if(x=="12"){xxx="Benefits-of-the-ERP-Software"}
-if(x=="13"){xxx="What-is-ERP-in-Business-should-be-Chosen"}a_to_ve[i].href="https://onmyway.website/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fchoose-right-types-of-erp-systems-for.html&sa=D&sntz=1&usg=AFQjCNGuTJZH6yEzd18Fas7LqUAF5zVAHg"}
+if(x=="2"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fwhat-is-erp-solution-benefit-for-your.html&sa=D&sntz=1&usg=AFQjCNG8fybIdYjxY9Eqs75cWuhk8A33lg"}
+if(x=="3"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fthe-cloud-based-erp-software-in.html&sa=D&sntz=1&usg=AFQjCNGh9PJlNHI1AqdjbL0vavui1doFkg"}
+if(x=="4"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fconsider-having-enterprise-resource.html&sa=D&sntz=1&usg=AFQjCNHSOU9ny_HYHnqZ7RCkpNGTCcQKSg"}
+if(x=="5"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fa-definition-of-what-erp-experience-is.html&sa=D&sntz=1&usg=AFQjCNGaC1RSDHAHn2O7ZnVtWZkYGFd8sg"}
+if(x=="6"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fwhats-erp-system-and-why-you-should-use.html&sa=D&sntz=1&usg=AFQjCNEbcH_Sjh2FQWPLcvoUPa-hylLEuw"}
+if(x=="7"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fhow-to-define-that-company-needs.html&sa=D&sntz=1&usg=AFQjCNEl1aLk8x0gw4nsR549FbOuz0qrrA"}
+if(x=="8"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fwhat-erp-is-and-types-of-softwares-to.html&sa=D&sntz=1&usg=AFQjCNFdB_6OdrBti_dXiT6cujorQjZ2dg"}
+if(x=="9"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fwhat-does-erp-do-for-business.html&sa=D&sntz=1&usg=AFQjCNE7PlCArn4x518CCecZNnjybYYUfg"}
+if(x=="10"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fhow-to-choose-best-enterprise-resource.html&sa=D&sntz=1&usg=AFQjCNErsVF3COd_hhfTW-vMnoULgSdHkQ"}
+if(x=="11"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fbenefits-of-erp-software-for-small.html&sa=D&sntz=1&usg=AFQjCNGgwOT4IOc-3E6sY_uE6mplKJs3rQ"}
+if(x=="12"){xxx="url?q=https%3A%2F%2Fwww.erpevolution.co%2F2019%2F02%2Fwhat-is-erp-in-business-should-be-chosen.html&sa=D&sntz=1&usg=AFQjCNFyLi5xkn3jSm1DZa9jBJdSqJtzLg"}a_to_ve[i].href="https://www.google.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
