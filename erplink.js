@@ -21,19 +21,19 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="AxvDuE"}
-if(x=="2"){xxx="gDrIkO"}
-if(x=="3"){xxx="AcKdew"}
-if(x=="4"){xxx="skolYU"}
-if(x=="5"){xxx="UHBLab"}
-if(x=="6"){xxx="tVLVmJ"}
-if(x=="7"){xxx="PPQlsV"}
-if(x=="8"){xxx="dTglgT"}
-if(x=="9"){xxx="OIEcOw"}
-if(x=="10"){xxx="MytNno"}
-if(x=="11"){xxx="trLgtW"}
-if(x=="12"){xxx="rWtSmG"}
-if(x=="13"){xxx="EpCmKp"}a_to_ve[i].href="https://onmyway.website/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="article/?http://bit.ly/2YltnPC"}
+if(x=="2"){xxx="article/?http://bit.ly/2LJJqVz"}
+if(x=="3"){xxx="article/?http://bit.ly/2OnTnKt"}
+if(x=="4"){xxx="article/?http://bit.ly/2K6M4Bp"}
+if(x=="5"){xxx="article/?http://bit.ly/30XlbGP"}
+if(x=="6"){xxx="article/?http://bit.ly/2LIARdF"}
+if(x=="7"){xxx="article/?http://bit.ly/2MgZq0F"}
+if(x=="8"){xxx="article/?http://bit.ly/32PPxNn"}
+if(x=="9"){xxx="article/?http://bit.ly/312A9vs"}
+if(x=="10"){xxx="article/?http://bit.ly/30UYNha"}
+if(x=="11"){xxx="article/?http://bit.ly/2Yp8eUv"}
+if(x=="12"){xxx="article/?http://bit.ly/32X7NEk"}
+if(x=="13"){xxx="article/?http://bit.ly/2YujS4K"}a_to_ve[i].href="https://inventoryapp.online/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
